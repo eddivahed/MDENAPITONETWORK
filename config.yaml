@@ -1,0 +1,3 @@
+# config.yaml
+port: "8080"
+fabricSDKConfig: "./fabric-config.yaml"
