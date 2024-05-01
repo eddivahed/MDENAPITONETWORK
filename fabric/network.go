@@ -1,3 +1,4 @@
+// fabric/network.go
 package fabric
 
 import (

@@ -1,3 +1,4 @@
+// /fabric/user.go
 package fabric
 
 import (
